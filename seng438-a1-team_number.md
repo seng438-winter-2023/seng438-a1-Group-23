@@ -34,7 +34,7 @@ learned	1](#_Toc439194682)
 # Introduction
 
 An introduction of your lab work, and what you knew about exploratory and manual
-functional testing before this lab
+functional testing before this lab. Hello World
 
 # High-level description of the exploratory testing plan
 
