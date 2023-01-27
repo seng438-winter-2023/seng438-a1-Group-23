@@ -2,12 +2,12 @@
 
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
-| Group: Group Number     |
-|-------------------------|
-| Student 1 Hamza Niaz    |   
-| Student 2 Bilal Pasha   |   
-| Student 3 Yousef Hammad |   
-| Student 4 Issam Akthar  |   
+| Group: 23     |
+|---------------|
+| Hamza Niaz    |   
+| Bilal Pasha   |   
+| Yousef Hammad |   
+| Issam Akthar  |   
 
 
 **Table of Contents**
